@@ -10,7 +10,7 @@ _this webpage allows the user to input their pizza size as well as toppings and 
 
 ## Setup/Installation Requirements
 
-* _Clone this repositroy_
+* _Clone this repository
 * _navigate to index.html_
 * _follow instructions on webpage_
 * _make your pizza_
@@ -23,7 +23,7 @@ _https://docs.google.com/document/d/1tn3pyHty4v_UprUs-NByeUywoT00vLnLcNDdX-hRBcc
 
 ## Known Bugs
 
-_Currently there are no known bugs other than the java script being a bit shakey_
+_Currently there are no known bugs other than the java script being a bit unclean_
 
 ## Support and contact details
 
