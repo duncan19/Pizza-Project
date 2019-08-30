@@ -1,38 +1,40 @@
-https://docs.google.com/document/d/1tn3pyHty4v_UprUs-NByeUywoT00vLnLcNDdX-hRBcc/edit?usp=sharing
-# _{Application Name}_
+# _Pizza Program_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Pizza ordering site, 8.30.19_
 
-#### By _**{List of contributors}**_
+#### By _**Duncan Robbins**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_this webpage allows the user to input their pizza size as well as toppings and comes up with a price for them to pay for their pizza_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone this repositroy_
+* _navigate to index.html_
+* _follow instructions on webpage_
+* _make your pizza_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+
+_No additional servers are needed for this webpage to run_
+
+## specs
+_https://docs.google.com/document/d/1tn3pyHty4v_UprUs-NByeUywoT00vLnLcNDdX-hRBcc/edit?usp=sharing_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_Currently there are no known bugs other than the java script being a bit shakey_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_If any issues occur feel free to contact me at 503-456-3443 or email me at duncanrobbins19@gmail.com_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_This software uses HTML CSS Bootstrap jQuery and Java Script_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*this software is licensed under the MIT license*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2019 **_Duncan Robbins_**
