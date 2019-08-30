@@ -10,7 +10,7 @@ _this webpage allows the user to input their pizza size as well as toppings and 
 
 ## Setup/Installation Requirements
 
-* _Clone this repository
+* _Clone this repository_
 * _navigate to index.html_
 * _follow instructions on webpage_
 * _make your pizza_
